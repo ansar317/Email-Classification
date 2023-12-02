@@ -7,8 +7,6 @@ The goal of this project is to use machine learning techniques to identify email
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Training the Model](#training-the-model)
   - [Making Predictions](#making-predictions)
 - [Contributing](#contributing)
 - [License](#license)
